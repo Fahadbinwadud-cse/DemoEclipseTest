@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Muster Suite">
+  <suite-files>
+	  <suite-file path="C:\Users\Fahad\Documents\Eclipse\TestNGTrainee\SanityTestSuit.xml"></suite-file>
+	  <suite-file path="C:\Users\Fahad\Documents\Eclipse\TestNGTrainee\Functional.xml"></suite-file>
+  </suite-files>
+</suite> <!-- Muster Suite -->
